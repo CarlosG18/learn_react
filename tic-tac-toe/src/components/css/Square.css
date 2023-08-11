@@ -2,6 +2,11 @@
     background-color: #FF6B21;
     padding: 30px;
     border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 90px;
     flex-grow: 1;
     border: none;
     box-shadow: 3px 3px 10px black;
