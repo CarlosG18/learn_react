@@ -1,12 +1,11 @@
 import './App.css';
-import Button from './components/button'
-import Person from './components/person';
+import Board from './components/Board';
+
 
 function App() {
   return (
     <div className="App">
-      <Button />
-      <Person />
+      <Board />
     </div>
   );
 }
