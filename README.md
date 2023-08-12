@@ -19,10 +19,7 @@ isso irá rodar um servidor no localhost onde você poderá ver sua aplicação 
 
 componentes são elementos que compoem uma interface de usuario. na prática ela é uma função em javascript que retorna um html. Uma boa prática é usar os nomes dos compomentes com a primeira letra mauscula enquanto tags html com a primeira letra minuscula.
 
-o tutorial oferecido pelo react é dividido em algumas partes:
+- a palavra chave `export` é usada para tornar a função, class ou arquivo acessivel em outros arquivos.
 
-- [setup for the tutorial]()
-- [overview]()
-- [completing game]()
-- [adding time travel]()
+- o `return` dos componemtes devem apenas um elemento JSX. se você quiser retornar mais de um elemento devemos usar o fragments -> `<> </>`.
 
