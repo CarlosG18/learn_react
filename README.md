@@ -23,3 +23,4 @@ componentes são elementos que compoem uma interface de usuario. na prática ela
 
 - o `return` dos componemtes devem apenas um elemento JSX. se você quiser retornar mais de um elemento devemos usar o fragments -> `<> </>`.
 
+- para guardar o estado de um componemte usamos o `useState`.
